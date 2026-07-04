@@ -102,7 +102,6 @@ English • Hindi (हिंदी) • Marathi (मराठी) • Bengali (�
 - No personal health data stored permanently
 - Session-based data management
 - Medical disclaimer on every interaction
-- GDPR compliant
 
 ---
 
